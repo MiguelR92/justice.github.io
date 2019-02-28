@@ -37,9 +37,9 @@
           $mail->Body = "
                   <h1>Envio libreria PHPMailer</h1>
 
-                  Nombre: $nombre<br />
+                  Nombre: $nombre <br />
                   Email: $email <br />
-                 Mensaje: $mensaje <br />
+                  Mensaje: $mensaje <br />
 
           ";
 
